@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Columbus, Ohio
 * ✉️  You can contact me at [aboomar.2@osu.edu](mailto:aboomar.2@osu.edu)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning TypeScript
 
 ### Skills
 
